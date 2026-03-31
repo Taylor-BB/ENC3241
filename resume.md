@@ -5,7 +5,7 @@ title: Resume
 
 # Resume
 
-This page contains Taylor’s resume. Her resume includes a summary, education, work experience, volunteer experience, and skills section.
+This page contains Taylor’s resume. Her resume includes a summary, education, work experience, volunteer experience, and skills section. Identifying information (address, phone, and email) has been omitted for the purpose of confidentiality.
 
 <center>
   <object data="./assets/ENC 3241_Resume Revised_Prof Edits.pdf" type="application/pdf" width="700px" height="700px">
